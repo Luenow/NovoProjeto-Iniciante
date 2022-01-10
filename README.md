@@ -1,3 +1,6 @@
-# NovoProjeto-Iniciante
-Fazer alguma coisa legal para teste
+# Desafio de Projeto de Git/Github da Dio
+Repositório
+
+## Links Úteis
+[Sintaxe Basica Markdown] (https://www.markdownguide.org/basic-syntax/)
 
