@@ -1,0 +1,6 @@
+Ideias de Projetos para um inicio de programador-
+
+1: Pokedex de pokemon
+2: Mini Jogo de Pedra Papel e Tesoura
+3: Tabela Netflix
+4: 
